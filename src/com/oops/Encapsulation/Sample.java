@@ -10,6 +10,10 @@ public class Sample
 		d=a+b+c;
 		System.out.println("d="+d);
 	}
+	public void m1()
+	{
+		
+	}
 	
 	
 

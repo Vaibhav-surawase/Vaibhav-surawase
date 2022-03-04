@@ -8,9 +8,9 @@ public class Numbers3
 		{
 			for(int j=1;j<=5;j++)
 			{
-				 System.out.print((i-1)*5+j+" ");
+//				 System.out.print((i-1)*5+j+" ");
 				
-				//System.out.print(i+j-1+" ");
+				System.out.print(i+j-1+" ");
 			}
 			System.out.println(" ");
 		}

@@ -1,5 +1,4 @@
 package com.practice.Array;
-
 public class M2array
 {
 	public static void main(String[] args) 
@@ -19,7 +18,7 @@ public class M2array
     	System.out.println();
      }
   System.out.println();		
-  System.out.println(a[0].length);
+  System.out.println(a[1].length);
 	}
  
 }

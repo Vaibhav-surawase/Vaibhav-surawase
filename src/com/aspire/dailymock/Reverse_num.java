@@ -12,11 +12,7 @@ public class Reverse_num {
 			num=num/10;			
 		}
 		System.out.println(rev);
-		
-		
-		
-		
-		
+	
 		
 		
 //		while(num!=0)

@@ -5,7 +5,7 @@ public class Prime_num
 { 
 	public static void main(String[] args) 
 	{
-		int num=1;
+		int num=13;
 		int count=0;
 		
 		if(num>1)
@@ -13,7 +13,7 @@ public class Prime_num
 			for(int i=1; i<=num; i++)
 			{
 				if(num%i==0)
-					count++;
+					count++;              //   divisible by 1 and  itself
 			}
 			if(count==2)
 			{
